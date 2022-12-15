@@ -15,7 +15,7 @@ This is a web-based calculator created entirely with vanilla JavaScript, CSS, an
 
 ## Screenshot
 
-![Screen Shot 2022-12-15 at 10 30 46 AM](https://user-images.githubusercontent.com/58447266/207939729-e6ed7a36-7d0e-4d59-8ea0-866036def24c.png)
+![Screen Shot 2022-12-15 at 10 36 44 AM](https://user-images.githubusercontent.com/58447266/207940738-026cfd78-cad0-470a-b607-645a85775c4e.png)
 
 ## Setup
 To run this project, download all files to a new folder and install it locally using npm:

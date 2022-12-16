@@ -11,6 +11,7 @@ This is a web-based calculator created entirely with vanilla JavaScript, CSS, an
 - The % key will divide the current number in the display by 100 to create a percentage value to be worked with.
 - The +/- key will make the current display value the opposite of what it currently is. If the value is a positive number, it will become negative, and vice versa.
 - Numbers generated greater than 9 decimal places will display the value using exponent notation (e+value).
+- I used CSS grid to render the keypad and the `grid-template-areas` property to assign the key areas. It might be overkill for this particular use case, but it's a really clean way to do it, and will make any future keypad changes easy to implement.
 - I used two different Google fonts to lend an aesthetic authenticity to the calculator look.
 
 ## Screenshot
